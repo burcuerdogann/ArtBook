@@ -2,7 +2,7 @@
 
 Android Development / Java Tutorial - Lesson 18
 
-ArtBook Application
+ArtBook Android Application (Java)
 
 Layouts | SQLite Database | Permissions | Creating Menu | Android Request Permissions | Launcher | Permission Test
 
